@@ -1,4 +1,4 @@
-**William Hernandez**
+**William Hernandez - Alicante**
 # LandingPageAboutMe 🚀
 
 ¡Bienvenido/a a mi primer proyecto del **Bootcamp de Desarrollo Web Full Stack en Factoría F5**! Este proyecto consiste en el diseño y desarrollo de una Landing Page de presentación personal ("Sobre mí") construida desde cero utilizando tecnologías web nativas.
@@ -45,8 +45,8 @@ Cada sección combina texto descriptivo con imágenes optimizadas generadas medi
 
 Para la evaluación del proyecto, se facilitan los siguientes recursos:
 
-1. **Repositorio de GitHub**: [Enlace al Repositorio](https://github.com/TU_USUARIO/LandingPageAboutMe) *(Reemplaza con tu enlace real)*
-2. **Despliegue en Vivo**: [Ver en GitHub Pages](https://TU_USUARIO.github.io/LandingPageAboutMe/) *(Reemplaza con tu enlace real)*
+1. **Repositorio de GitHub**: [Enlace al Repositorio](https://github.com/wfhgdev/BootCampWebF5-Proy1LandingPage.git)
+2. **Despliegue en Vivo**: [Ver en GitHub Pages](https://TU_USUARIO.github.io/LandingPageAboutMe/)
 
 ### 📸 Captura de Pantalla del Resultado
 
