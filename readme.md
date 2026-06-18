@@ -52,7 +52,7 @@ Para la evaluación del proyecto, se facilitan los siguientes recursos:
 
 Aqui puedes observar una vista previa del diseño final de la Landing Page:
 
-![Vista Previa de la Landing Page](assets/screenshot.png) 
+![screenshoot index.html](images/screenshoot.png) 
 *(Nota: Asegúrate de guardar una captura de pantalla de tu web en una carpeta llamada `assets` con el nombre `screenshot.png` para que se visualice correctamente aquí)*
 
 ---
