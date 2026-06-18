@@ -46,7 +46,7 @@ Cada sección combina texto descriptivo con imágenes optimizadas generadas medi
 Para la evaluación del proyecto, se facilitan los siguientes recursos:
 
 1. **Repositorio de GitHub**: [Enlace al Repositorio](https://github.com/wfhgdev/BootCampWebF5-Proy1LandingPage.git)
-2. **Despliegue en Vivo**: [Ver en GitHub Pages](https://TU_USUARIO.github.io/LandingPageAboutMe/)
+2. **Despliegue en Vivo**: [Ver en GitHub Pages](https://wfhgdev.github.io/BootCampWebF5-Proy1LandingPage/)
 
 ### 📸 Captura de Pantalla del Resultado
 
