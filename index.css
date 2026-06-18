@@ -1,11 +1,60 @@
-img{
-    width: 300px;
+
+* {
+    box-sizing: border-box;  /* incluye padding y border dentro del ancho total del elemento, evita que se desborden*/
+    margin: 0;               /* elimina el margen exterior*/
+    padding: 0;              /* elimina el espacio interior*/
 }
 
-p{
-    text-align: justify;
+body {
+    background-color: #f5f0e8; /*color fondo*/
+    font-family: Georgia;
+    color: #2c2c2c;        /* color del texto principal*/
+    line-height: 1.7;        /*espacio entre renglones*/
+    max-width: 900px;        /*ancho máximo del contenido*/
+    margin: 0 auto;          /*centra horizontalmente el body*/
+    padding: 0 16px;         /*añade espacio interior lateral a cada lado*/
 }
 
-.lista{
-    font-style: italic;
+header {
+    background-color: #1a3a5c; /*color de fondo*/
+    color: #ffffff;            /* texto blanco para contrastar con el fondo oscuro */
+    text-align: center;        /* centra todo el texto del header */
+    padding: 32px 16px;        /* espacio interior y izquierda/derecha*/
+}
+
+header h1 {
+    font-size: 1.8rem;         /*tamaño del título principal*/
+    margin-bottom: 0.5rem;     /* espacio debajo del h1*/
+}
+
+section {
+    margin: 2rem 0;            /* espacio exterior: 2rem (≈32px) arriba y abajo
+                                   para separar las secciones entre sí, 0 a los lados */
+    padding-bottom: 1.5rem;    /* espacio interior solo en la parte de abajo,
+                                   da aire antes de la línea separadora */
+    border-bottom: 1px solid #ccc; /* línea horizontal gris clara de 1px al final
+                                       de cada sección, separa visualmente el contenido */
+}
+
+img {
+    width: 100%;               /* la imagen ocupa el 100% del ancho de su contenedor*/
+    max-width: 600px;          /* límite máximo de ancho*/
+    height: auto;              /* la altura se calcula automáticamente de forma proporcional*/
+    display: block;            /*cambia el comportamiento de inline a block*/
+    margin: 12px auto;         /* 1rem de espacio arriba y abajo, auto a los lados*/
+    }
+
+p {
+    text-align: justify;       /* alinea el texto en ambos márgenes*/
+    hyphens: auto;             /* divide palabras largas con guion automáticamente al final de línea*/
+    margin-bottom: 16px;       /* espacio debajo de cada párrafo para separarlos entre sí*/
+}
+
+footer {
+    background-color: #1a3a5c; /*colo de fondo footer*/
+    color: #ffffff;            /*texto blanco para contrastar con el fondo oscuro */
+    text-align: center;        /*centra horizontalmente el texto del footer */
+    padding: 1.25rem;          /*espacio interior uniforme en los 4 lados*/
+    margin-top: 2rem;          /*espacio exterior arriba del footer*/
+    font-size: 0.9rem;         /*texto ligeramente más pequeño que el base*/
 }
