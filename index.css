@@ -17,23 +17,20 @@ body {
 
 header {
     background-color: #1a3a5c; /*color de fondo*/
-    color: #ffffff;            /* texto blanco para contrastar con el fondo oscuro */
-    text-align: center;        /* centra todo el texto del header */
-    padding: 32px 16px;        /* espacio interior y izquierda/derecha*/
+    color: #ffffff;            /*texto blanco para contrastar con el fondo oscuro */
+    text-align: center;        /*centra todo el texto del header */
+    padding: 32px 16px;        /*espacio interior y izquierda/derecha*/
 }
 
 header h1 {
     font-size: 1.8rem;         /*tamaño del título principal*/
-    margin-bottom: 0.5rem;     /* espacio debajo del h1*/
+    margin-bottom: 0.5rem;     /*espacio debajo del h1*/
 }
 
 section {
-    margin: 2rem 0;            /* espacio exterior: 2rem (≈32px) arriba y abajo
-                                   para separar las secciones entre sí, 0 a los lados */
-    padding-bottom: 1.5rem;    /* espacio interior solo en la parte de abajo,
-                                   da aire antes de la línea separadora */
-    border-bottom: 1px solid #ccc; /* línea horizontal gris clara de 1px al final
-                                       de cada sección, separa visualmente el contenido */
+    margin: 2rem 0;            /*espacio exterior: arriba y abajo para separar las secciones entre sí, 0 a los lados */
+    padding-bottom: 1.5rem;    /*espacio interior solo en la parte de abajo, da aire antes de la línea separadora */
+    border-bottom: 1px solid #ccc; /* línea horizontal gris clara de 1px al final de cada sección, separa visualmente el contenido */
 }
 
 img {
@@ -41,7 +38,7 @@ img {
     max-width: 600px;          /* límite máximo de ancho*/
     height: auto;              /* la altura se calcula automáticamente de forma proporcional*/
     display: block;            /*cambia el comportamiento de inline a block*/
-    margin: 12px auto;         /* 1rem de espacio arriba y abajo, auto a los lados*/
+    margin: 12px auto;         /*Espacio arriba y abajo, auto a los lados*/
     }
 
 p {
